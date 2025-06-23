@@ -1,4 +1,4 @@
-# SegmentTree-and-its-Applications
+# Range-Query-Engine
 
 
 The primary objective of this project is to deeply understand and implement one of the most powerful and versatile data structures in computer science — Segment Tree.
